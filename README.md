@@ -37,7 +37,7 @@ O código está organizado de forma modular para facilitar a manutenção e expa
 
 1. **Clonar o repositório**:
    ```bash
-   [git clone https://github.com/teu-utilizador/calculadora-calorias-diarias.git](https://github.com/hypes999/Daily-Calorie-Calculator.git)
+   git clone https://github.com/hypes999/Daily-Calorie-Calculator.git
    cd Daily-Calorie-Calculator
    ```
 
